@@ -1,0 +1,9 @@
+ Tools Used and Tech Stack: 
+
+Python
+PyTorch (torch) – Deep learning framework used for NLP tasks
+Hugging Face (transformers) – Pretrained NLP models and utilities
+NLTK – Text preprocessing and stop-word removal
+VADER Sentiment Analyzer – Lexicon-based sentiment scoring
+Pandas – Data handling
+Matplotlib / WordCloud – Visualization
