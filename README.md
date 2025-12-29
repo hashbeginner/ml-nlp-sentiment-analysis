@@ -19,4 +19,5 @@ Sentiment Analysis of Movie Trailer Comments:
 7. Aggregated individual sentiments to derive an overall sentiment for the trailer.
 
 
+Note: If the notebook preview does not render on GitHub, please download or open it directly in Google Colab.
 
