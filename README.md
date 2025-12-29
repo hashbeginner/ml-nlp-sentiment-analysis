@@ -8,14 +8,15 @@ Sentiment Analysis of Movie Trailer Comments:
 -Provide Insights into audience reception
 -Asses the trailer’s market appeal
 
-*High Level Steps involved:
-1.Fetch comments from a youtube trailer. One option would be to manually get it directly from the API and save them in a file and load it in the google collaboratory notebook. 
-2.Once Loaded, complete all necessary imports.
-3.Create a function for removing the stop words
-4.Create a function to calculate the sentiment score and the sentiment (positive/negative).
-5.Loop through the comments from the loaded excel file for Input (comments).
-6.Segregate the words into positive and negative, so you can make a word cloud for each at the end.
-7.Calculate all the sentiments in a loop and return only one final result about the sentiment.
+## High-Level Steps Involved
+
+1. Fetched comments from a YouTube trailer using the YouTube Data API and stored them in a file.
+2. Loaded the comments file into the Google Colab notebook and imported the required libraries.
+3. Preprocessed the text by removing stop words and unnecessary characters.
+4. Implemented a function to calculate sentiment scores and classify comments as positive or negative.
+5. Iterated through all comments to compute sentiment values.
+6. Segregated words based on sentiment to generate separate word clouds for positive and negative comments.
+7. Aggregated individual sentiments to derive an overall sentiment for the trailer.
 
 
 
