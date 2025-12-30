@@ -19,6 +19,14 @@ Sentiment Analysis of Movie Trailer Comments:
 7. Aggregated individual sentiments to derive an overall sentiment for the trailer.
 
 Wordclouds of the positive and negative words found in the comments are also generated at the end.
+## Results
+
+### Positive Sentiment Word Cloud
+![Positive Word Cloud](outputs/positive_wordcloud.png)
+
+### Negative Sentiment Word Cloud
+![Negative Word Cloud](outputs/negative_wordcloud.png)
+
 
 Note: If the notebook preview does not render on GitHub, please download or open it directly in Google Colab.
 
