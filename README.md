@@ -22,7 +22,7 @@ Sentiment Analysis of Movie Trailer Comments:
 6. Segregated words based on sentiment to generate separate word clouds for positive and negative comments.
 7. Aggregated individual sentiments to derive an overall sentiment for the trailer.
 
-Wordclouds of the positive and negative words found in the comments are also generated at the end.
+
 ## Results
 
 ### Positive Sentiment Word Cloud
